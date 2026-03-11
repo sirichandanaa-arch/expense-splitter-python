@@ -8,6 +8,10 @@ A Python CLI application that simplifies shared expense management for groups by
 - Greedy algorithm to minimize settlement transactions
 - Command-line interface for easy interaction
 
+## Improvements
+- Improved code structure
+- Added requirements.txt for dependency management
+  
 ## Tech Stack
 Python
 
